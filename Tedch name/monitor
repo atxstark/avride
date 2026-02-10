@@ -1,0 +1,4 @@
+<div className="flex flex-col">
+                   <span className="text-xs text-[#9F8DFB]/70">Technician</span>
+                   <span className="text-sm font-medium text-[#9F8DFB]">{activeTechnician}</span>
+                 </div>
